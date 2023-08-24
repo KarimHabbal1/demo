@@ -1,5 +1,4 @@
-#Demo
+demo lal project
 
-hayda read me byestaamlo la description aan l project 
 
-aashen .md doghre bibayin by default 
+aashen .md bibayin default
